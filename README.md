@@ -1,6 +1,7 @@
 # Hi there 👋
 
-<a href="https://app.daily.dev/sir_lancelot"><img src="https://api.daily.dev/devcards/eb3e705ab07242b58cb8c07fcc769816.png?r=n3h" width="300" alt="Lance Armah-Abraham's Dev Card"/></a>
+<a href="https://app.daily.dev/sir_lancelot"><img src="https://github.com/lance1997/lance1997/blob/master/devcard.svg" width="300" alt="Lance Dev Card"/></a>
+
 
 <!--
 **Lance1997/lance1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
