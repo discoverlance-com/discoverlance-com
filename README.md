@@ -2,19 +2,19 @@
 <a href="https://app.daily.dev/sir_lancelot"><img src="https://github.com/Lance1997/lance1997/blob/main/devcard.svg" width="300" alt="Lance Dev Card"/></a>
 
 # 💫About Me :
-  -🔭 I’m currently working on:
+  - 🔭 I’m currently working on:
      - Personal startup project (cloudatrest / babycloud) to discuss all things cloud and application development
-  -👯 I’m looking to collaborate on:
+  - 👯 I’m looking to collaborate on:
      - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind 
-  -🤝 I’m looking for help with:
+  - 🤝 I’m looking for help with:
       - Contributing to open source projects
-  -🌱 I’m currently learning:
+  - 🌱 I’m currently learning:
       - Data structures and algorithms (even with a CS degree, I never really took this topic seriously and now I intend to put effort into it)
       - AWS Application development (hoping to go for the AWS Associate Developer certification soon)
-  -💬 Ask me about
+  - 💬 Ask me about
       - Javascript and Typescript
       - Building React projects
-  -⚡ Fun fact:
+  - ⚡ Fun fact:
       - I really love daily.dev and as you can see my Dev Card above.
       - I am a huge fan of anime and am currently binging *One Piece.
 
