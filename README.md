@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8582](https://github.com/tailwindlabs/tailwindcss/issues/8582) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+1. ❗️ Opened issue [#3150](https://github.com/spatie/laravel-medialibrary/issues/3150) in [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary)
 <!--END_SECTION:activity-->
 
 ---
