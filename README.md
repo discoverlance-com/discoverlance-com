@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3150](https://github.com/spatie/laravel-medialibrary/issues/3150) in [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary)
+1. 🎉 Merged PR [#11](https://github.com/discoverlance-com/filament-page-hints/pull/11) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
 <!--END_SECTION:activity-->
 
 ---
