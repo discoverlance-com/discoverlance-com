@@ -4,12 +4,14 @@
   - 🔭 I’m currently working on:
      - Personal startup project (cloudatrest) to discuss all things cloud and application development
   - 👯 I’m looking to collaborate on:
-     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind 
+     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind
+  - 🔭 Building site templates including commerce:
+     - [My Cosmetics](https://my-cosmetics.pages.dev)    
   - 🤝 I’m looking for help with:
       - Contributing to open source projects
   - 🌱 I’m currently learning:
-      - Data structures and algorithms (even with a CS degree, I never really took this topic seriously and now I intend to put effort into it)
-      - AWS Application development (hoping to go for the AWS Associate Developer certification soon)
+      - Python (I started using python to build a couple of functions and realized, boom, I really don't know much about python so taking some lessons on python)
+      - Svelte and Sveltekit
   - 💬 Ask me about
       - Javascript and Typescript
       - Building React projects
