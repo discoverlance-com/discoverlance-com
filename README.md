@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/discoverlance-com/filament-page-hints/issues/14) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
+1. 💪 Opened PR [#15](https://github.com/discoverlance-com/filament-page-hints/pull/15) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
 <!--END_SECTION:activity-->
 
 ---
