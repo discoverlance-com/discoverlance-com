@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/discoverlance-com/filament-page-hints/pull/16) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
+1. 🗣 Commented on [#18](https://github.com/discoverlance-com/filament-page-hints/issues/18) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
 <!--END_SECTION:activity-->
 
 ---
