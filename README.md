@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5798](https://github.com/livewire/livewire/pull/5798#issuecomment-1645542367) in [livewire/livewire](https://github.com/livewire/livewire)
+1. 🗣 Commented on [#49](https://github.com/laravel/folio/issues/49#issuecomment-1652331972) in [laravel/folio](https://github.com/laravel/folio)
 <!--END_SECTION:activity-->
 
 ---
