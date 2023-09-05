@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/laravel/folio/issues/49#issuecomment-1652331972) in [laravel/folio](https://github.com/laravel/folio)
+1. 🗣 Commented on [#48083](https://github.com/vercel/next.js/issues/48083#issuecomment-1707428917) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ---
