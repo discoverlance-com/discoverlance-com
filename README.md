@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48083](https://github.com/vercel/next.js/issues/48083#issuecomment-1707428917) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#23](https://github.com/discoverlance-com/filament-page-hints/issues/23#issuecomment-1732660570) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
 <!--END_SECTION:activity-->
 
 ---
