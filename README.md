@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/discoverlance-com/filament-page-hints/issues/23#issuecomment-1732660570) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
+1. ❗ Opened issue [#472](https://github.com/vercel/storage/issues/472) in [vercel/storage](https://github.com/vercel/storage)
 <!--END_SECTION:activity-->
 
 ---
