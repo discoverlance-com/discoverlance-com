@@ -4,9 +4,7 @@
   - 🔭 I’m currently working on:
      - ...
   - 👯 I’m looking to collaborate on:
-     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind
-  - 🔭 Building site templates including commerce:
-     - [My Cosmetics](https://my-cosmetics.pages.dev)    
+     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind  
   - 🤝 I’m looking for help with:
       - Contributing to open source projects
   - 🌱 I’m currently learning:
