@@ -2,7 +2,7 @@
 
 # 💫About Me :
   - 🔭 I’m currently working on:
-     - Personal startup project (cloudatrest) to discuss all things cloud and application development
+     - ...
   - 👯 I’m looking to collaborate on:
      - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript or css design library with tailwind
   - 🔭 Building site templates including commerce:
