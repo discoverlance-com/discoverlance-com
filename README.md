@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#472](https://github.com/vercel/storage/issues/472) in [vercel/storage](https://github.com/vercel/storage)
+1. 🗣 Commented on [#12058](https://github.com/filamentphp/filament/pull/12058#issuecomment-2024876496) in [filamentphp/filament](https://github.com/filamentphp/filament)
 <!--END_SECTION:activity-->
 
 ---
