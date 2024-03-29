@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12058](https://github.com/filamentphp/filament/pull/12058#issuecomment-2024876496) in [filamentphp/filament](https://github.com/filamentphp/filament)
+1. 💪 Opened PR [#12097](https://github.com/filamentphp/filament/pull/12097) in [filamentphp/filament](https://github.com/filamentphp/filament)
 <!--END_SECTION:activity-->
 
 ---
