@@ -46,7 +46,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12097](https://github.com/filamentphp/filament/pull/12097) in [filamentphp/filament](https://github.com/filamentphp/filament)
+1. 🗣 Commented on [#2891](https://github.com/shadcn-ui/ui/issues/2891#issuecomment-2073660170) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 ---
