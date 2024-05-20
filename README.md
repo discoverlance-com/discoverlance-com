@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2891](https://github.com/shadcn-ui/ui/issues/2891#issuecomment-2073660170) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. ❗ Opened issue [#1](https://github.com/fly-apps/fly-laravel-litefs/issues/1) in [fly-apps/fly-laravel-litefs](https://github.com/fly-apps/fly-laravel-litefs)
 <!--END_SECTION:activity-->
 
 ---
