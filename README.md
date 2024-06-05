@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/fly-apps/fly-laravel-litefs/issues/1#issuecomment-2119590195) in [fly-apps/fly-laravel-litefs](https://github.com/fly-apps/fly-laravel-litefs)
+1. ❗ Opened issue [#1034](https://github.com/adonisjs/lucid/issues/1034) in [adonisjs/lucid](https://github.com/adonisjs/lucid)
 <!--END_SECTION:activity-->
 
 ---
