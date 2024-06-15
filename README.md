@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/supercharge/docs/issues/4) in [supercharge/docs](https://github.com/supercharge/docs)
+1. 🗣 Commented on [#1034](https://github.com/adonisjs/lucid/issues/1034#issuecomment-2168954536) in [adonisjs/lucid](https://github.com/adonisjs/lucid)
 <!--END_SECTION:activity-->
 
 ---
