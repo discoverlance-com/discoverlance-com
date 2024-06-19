@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#130](https://github.com/IdoPesok/zsa/issues/130) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
+1. 🗣 Commented on [#130](https://github.com/IdoPesok/zsa/issues/130#issuecomment-2179303426) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
 <!--END_SECTION:activity-->
 
 ---
