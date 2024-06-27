@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/IdoPesok/zsa/issues/130#issuecomment-2179303426) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
+1. 🗣 Commented on [#1034](https://github.com/adonisjs/lucid/issues/1034#issuecomment-2195143441) in [adonisjs/lucid](https://github.com/adonisjs/lucid)
 <!--END_SECTION:activity-->
 
 ---
