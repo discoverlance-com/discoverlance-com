@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4635](https://github.com/adonisjs/core/issues/4635#issuecomment-2196664760) in [adonisjs/core](https://github.com/adonisjs/core)
+1. 🗣 Commented on [#29](https://github.com/adonisjs/inertia/issues/29#issuecomment-2197389922) in [adonisjs/inertia](https://github.com/adonisjs/inertia)
 <!--END_SECTION:activity-->
 
 ---
