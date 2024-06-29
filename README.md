@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/adonisjs/inertia/issues/29#issuecomment-2197400577) in [adonisjs/inertia](https://github.com/adonisjs/inertia)
+1. ❗ Opened issue [#3](https://github.com/izzyjs/route/issues/3) in [izzyjs/route](https://github.com/izzyjs/route)
 <!--END_SECTION:activity-->
 
 ---
