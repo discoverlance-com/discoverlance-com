@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/izzyjs/route/issues/3) in [izzyjs/route](https://github.com/izzyjs/route)
+1. 🗣 Commented on [#297](https://github.com/trivago/prettier-plugin-sort-imports/issues/297#issuecomment-2201836941) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
 <!--END_SECTION:activity-->
 
 ---
