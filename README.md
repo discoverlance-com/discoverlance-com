@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#304](https://github.com/mettle/sendportal/issues/304) in [mettle/sendportal](https://github.com/mettle/sendportal)
+1. ❗ Opened issue [#157](https://github.com/IdoPesok/zsa/issues/157) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
 <!--END_SECTION:activity-->
 
 ---
