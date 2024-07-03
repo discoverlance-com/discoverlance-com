@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#297](https://github.com/trivago/prettier-plugin-sort-imports/issues/297#issuecomment-2201836941) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
+1. ❗ Opened issue [#304](https://github.com/mettle/sendportal/issues/304) in [mettle/sendportal](https://github.com/mettle/sendportal)
 <!--END_SECTION:activity-->
 
 ---
