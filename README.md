@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/217#issuecomment-2237459165) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+1. 🗣 Commented on [#217](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/217#issuecomment-2238564647) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 
 ---
