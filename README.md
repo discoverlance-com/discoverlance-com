@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/adonisjs/inertia/issues/29#issuecomment-2269442213) in [adonisjs/inertia](https://github.com/adonisjs/inertia)
+1. 🗣 Commented on [#217](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/217#issuecomment-2274529542) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 
 ---
