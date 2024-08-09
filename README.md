@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1034](https://github.com/adonisjs/lucid/issues/1034#issuecomment-2277914794) in [adonisjs/lucid](https://github.com/adonisjs/lucid)
+1. 🗣 Commented on [#217](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/217#issuecomment-2277960170) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 
 ---
