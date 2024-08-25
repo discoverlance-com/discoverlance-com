@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/217#issuecomment-2307696037) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+1. ❗ Opened issue [#1](https://github.com/Honeystone/laravel-seo/issues/1) in [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo)
 <!--END_SECTION:activity-->
 
 ---
