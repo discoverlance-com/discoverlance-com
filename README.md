@@ -44,7 +44,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Honeystone/laravel-seo/issues/1) in [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo)
+1. 🗣 Commented on [#1](https://github.com/Honeystone/laravel-seo/issues/1#issuecomment-2313342878) in [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo)
 <!--END_SECTION:activity-->
 
 ---
