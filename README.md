@@ -28,6 +28,9 @@ I am Lance Armah-Abraham.
       - Building with Laravel
   - ⚡ Fun fact:
       - I am a huge fan of anime.
+   
+
+<a href="https://app.daily.dev/discoverlance"><img src="./devcard.png" width="356" alt="Lance's Dev Card"/></a>
  
 <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/sfsdfsdfdf) -->
 
