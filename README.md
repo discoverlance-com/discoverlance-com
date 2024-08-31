@@ -28,7 +28,9 @@ I am Lance Armah-Abraham.
       - Building with Laravel
   - ⚡ Fun fact:
       - I am a huge fan of anime.
-   
+
+## Daily.dev
+I explore daily.dev a lot for articles now. It's almost like my tech google with bookmarks and all.
 
 <a href="https://app.daily.dev/discoverlance"><img src="./devcard.png" width="356" alt="Lance's Dev Card"/></a>
  
