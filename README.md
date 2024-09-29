@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Honeystone/laravel-seo/issues/1#issuecomment-2313342878) in [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo)
+1. 🗣 Commented on [#314](https://github.com/NativePHP/laravel/issues/314#issuecomment-2381590986) in [NativePHP/laravel](https://github.com/NativePHP/laravel)
 <!--END_SECTION:activity-->
 
 ---
