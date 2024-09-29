@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.6](https://github.com/discoverlance-com/id-card-generator/releases/tag/v1.0.6) in [discoverlance-com/id-card-generator](https://github.com/discoverlance-com/id-card-generator)
+1. 🗣 Commented on [#1](https://github.com/Honeystone/laravel-seo/issues/1#issuecomment-2313342878) in [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo)
 <!--END_SECTION:activity-->
 
 ---
