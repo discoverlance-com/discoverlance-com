@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/NativePHP/laravel/issues/314#issuecomment-2381590986) in [NativePHP/laravel](https://github.com/NativePHP/laravel)
+1. ❗ Opened issue [#5476](https://github.com/shadcn-ui/ui/issues/5476) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 ---
