@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#272](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/272) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
+1. 🗣 Commented on [#272](https://github.com/awinogrodzki/next-firebase-auth-edge/issues/272#issuecomment-2456734904) in [awinogrodzki/next-firebase-auth-edge](https://github.com/awinogrodzki/next-firebase-auth-edge)
 <!--END_SECTION:activity-->
 
 ---
