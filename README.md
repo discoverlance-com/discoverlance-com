@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/supercharge/docs/issues/4#issuecomment-2460129447) in [supercharge/docs](https://github.com/supercharge/docs)
+1. 🗣 Commented on [#5669](https://github.com/shadcn-ui/ui/issues/5669#issuecomment-2470256392) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 ---
