@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1023](https://github.com/TanStack/form/issues/1023#issuecomment-2557093078) in [TanStack/form](https://github.com/TanStack/form)
+1. 🗣 Commented on [#12432](https://github.com/remix-run/react-router/issues/12432#issuecomment-2567187500) in [remix-run/react-router](https://github.com/remix-run/react-router)
 <!--END_SECTION:activity-->
 
 ---
