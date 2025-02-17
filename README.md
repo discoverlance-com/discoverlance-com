@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/oslo-project/otp/issues/7) in [oslo-project/otp](https://github.com/oslo-project/otp)
+1. 🗣 Commented on [#7](https://github.com/oslo-project/otp/issues/7#issuecomment-2662723191) in [oslo-project/otp](https://github.com/oslo-project/otp)
 <!--END_SECTION:activity-->
 
 ---
