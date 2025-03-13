@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/tursodatabase/libsql-laravel/issues/3#issuecomment-2705537366) in [tursodatabase/libsql-laravel](https://github.com/tursodatabase/libsql-laravel)
+1. 🎉 Merged PR [#1](https://github.com/discoverlance-com/my-contact-list/pull/1) in [discoverlance-com/my-contact-list](https://github.com/discoverlance-com/my-contact-list)
 <!--END_SECTION:activity-->
 
 ---
