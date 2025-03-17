@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/discoverlance-com/my-contact-list/pull/1) in [discoverlance-com/my-contact-list](https://github.com/discoverlance-com/my-contact-list)
+1. 🗣 Commented on [#482](https://github.com/helmetjs/helmet/issues/482#issuecomment-2730033576) in [helmetjs/helmet](https://github.com/helmetjs/helmet)
 <!--END_SECTION:activity-->
 
 ---
