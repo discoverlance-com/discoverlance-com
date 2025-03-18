@@ -67,7 +67,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#482](https://github.com/helmetjs/helmet/issues/482#issuecomment-2730033576) in [helmetjs/helmet](https://github.com/helmetjs/helmet)
+1. 🔒 Closed issue [#18](https://github.com/discoverlance-com/filament-page-hints/issues/18) in [discoverlance-com/filament-page-hints](https://github.com/discoverlance-com/filament-page-hints)
 <!--END_SECTION:activity-->
 
 ---
