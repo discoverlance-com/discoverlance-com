@@ -10,8 +10,6 @@ I am Lance Armah-Abraham.
 </div>
 
 ## 💫About Me :
-  - 🔭 I’m currently working on:
-     - [Laravel Quick Shift](https://laravelquickshift.com)
   - 👯 I’m looking to collaborate on:
      - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript,php or css design library with tailwind  
   - 🤝 I’m looking for help with:
