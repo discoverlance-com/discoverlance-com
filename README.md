@@ -65,7 +65,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#397](https://github.com/TanStack/db/issues/397#issuecomment-3544315080) in [TanStack/db](https://github.com/TanStack/db)
+1. ❌ Closed PR [#1](undefined) in [discoverlance-com/my-simple-image-processing](https://github.com/discoverlance-com/my-simple-image-processing)
 <!--END_SECTION:activity-->
 
 ---
