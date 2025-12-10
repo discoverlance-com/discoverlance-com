@@ -65,7 +65,7 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yarlson/vite-plugin-use-golang/issues/1#issuecomment-3634023435) in [yarlson/vite-plugin-use-golang](https://github.com/yarlson/vite-plugin-use-golang)
+1. ❗ Opened issue [#2](https://github.com/yarlson/vite-plugin-use-golang/issues/2) in [yarlson/vite-plugin-use-golang](https://github.com/yarlson/vite-plugin-use-golang)
 <!--END_SECTION:activity-->
 
 ---
