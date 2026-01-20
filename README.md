@@ -4,26 +4,28 @@ I am Lance Armah-Abraham.
 
 <div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
 <div style="width: 50%; padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
-    <h3 style="color: #9F9F9F; margin: 0;">Visit website</h3>
+    <h3 style="color: #9F9F9F; margin: 0;">Visit my website</h3>
     <a href="https://discoverlance.com" target="_blank" class="big-font" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://discoverlance.com</a>
 </div>
 </div>
 
 ## 💫About Me :
   - 👯 I’m looking to collaborate on:
-     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript,php or css design library with tailwind  
+     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript, python or golang.  
   - 🤝 I’m looking for help with:
       - Contributing to open source projects
       - Data Structures and Alogrithms
-      - Rust
+      - Golang
       - Time management
   - 🌱 I’m currently learning:
-      - Python (I started using python to build a couple of functions and realized, boom, I really don't know much about python so taking some lessons on python)
+      - Golang (I want to build developer tooling including CLIs and contribute to projects that depend on Go)
       - Data structures and Algorithms
   - 💬 Ask me about
       - Javascript and Typescript
-      - Building React projects
-      - Building with Laravel
+      - Building React/Laravel projects
+      - Cloud Engineering
+      - Building Infrastructure on Google Cloud
+      - Best practices on architecting on Google Cloud
   - ⚡ Fun fact:
       - I am a huge fan of anime.
 
