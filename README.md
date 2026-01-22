@@ -2,69 +2,90 @@
 
 I am Lance Armah-Abraham.
 
-<div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
-<div style="width: 50%; padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
-    <h3 style="color: #9F9F9F; margin: 0;">Visit my website</h3>
-    <a href="https://discoverlance.com" target="_blank" class="big-font" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://discoverlance.com</a>
-</div>
-</div>
+Backend & Cloud Engineer focused on building **reliable systems, cloud-native services and developer tooling**.
 
-## 💫About Me :
-  - 👯 I’m looking to collaborate on:
-     - Building an open source library, I really have nothing in mind but looking forward to something to do with javascript, python or golang.  
-  - 🤝 I’m looking for help with:
-      - Contributing to open source projects
-      - Data Structures and Alogrithms
-      - Golang
-      - Time management
-  - 🌱 I’m currently learning:
-      - Golang (I want to build developer tooling including CLIs and contribute to projects that depend on Go)
-      - Data structures and Algorithms
-  - 💬 Ask me about
-      - Javascript and Typescript
-      - Building React/Laravel projects
-      - Cloud Engineering
-      - Building Infrastructure on Google Cloud
-      - Best practices on architecting on Google Cloud
-  - ⚡ Fun fact:
-      - I am a huge fan of anime.
+Currently sharpening my skills in **Golang, linux-first systems and designing reliable backend architectures** while contributing to open source.
 
-## Daily.dev
-I explore daily.dev a lot for articles now. It's almost like my tech google with bookmarks and all.
+Website: [https://discoverlance.com](https://discoverlance.com)
 
-<a href="https://app.daily.dev/discoverlance"><img src="./devcard.png" width="356" alt="Lance's Dev Card"/></a>
- 
-<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/sfsdfsdfdf) -->
+---
 
-## 🌐Socials
+## 🚧 Current Focus
+
+- Building **production grade Golang projects** (CLIs, services and system-aware tooling)
+- Diving deep into **Linux and cloud systems**
+- Making consistent, small **open source contributions**
+- Sharing progress publicly as part of a structured learning journey
+
+> My Goal: move from a "Cloud generalist" to a **strong backend and systems engineer** with clear and reviewable artifacts
+
+---
+
+## 🧩 Featured Projects
+
+> (This section will evolve as I work on new Go projects)
+
+- **[Project Name - coming soon]**
+  A Go-based CLI/service focused on cloud or system inspection.
+  *Go · Linux · Cloud*
+
+---
+
+## 🛠️ Core Skills
+
+**Backend & Systems**
+- Go (actively building and learning(
+- Node.js, Python
+- REST APIs, event-driven systems
+- Authentication, authorization, security fundamentals
+
+**Cloud & DevOps**
+- Google Cloud (primary cloud and certified), AWS and Azure
+- Serverless design & architecture
+- CI/CD (Github actions and Google Cloud Build)
+- Infrastructure & environment configuration with terraform
+
+**Data**
+- Firestore, SQL databases + Libsql/Sqlite
+- Data modeling & query optimization
+
+**Frontend**
+- React, Typescript
+- Accessible UI development
+- Testing (Vitest, Playwright)
+
+---
+
+## 🌱 Open Source
+
+I value open source as a learning and collaboration environment. 
+I am focused on making **small, practical contributions**: bug fixes, documentation, tests, and tooling improvement.
+
+---
+
+## 📫 Connect
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/discoverlance) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lance-armah-abraham) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13442570) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@discoverlance) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/discoverlance) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DiscoverLance)  [![Youtube](https://img.shields.io/youtube/channel/views/UCZghsrQym0pUsehCb4SCWjA)](https://www.youtube.com/@discoverlance) 
 
-<!-- 
-// put some tech stack here to use later
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
--->
-# 💻Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+---
+
+This profile reflects an active transition toward backend & systems engineering. Expect frequent iteration.*
+
+---
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=discoverlance-com&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=discoverlance-com&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=discoverlance-com&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=discoverlance-com&theme=dark_lover" alt="github-trophies" />
-</div>
-
-## ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/discoverlance) 
   
- ---
+---
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24568](https://github.com/hashicorp/terraform-provider-google/issues/24568#issuecomment-3707041652) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
@@ -72,22 +93,5 @@ I explore daily.dev a lot for articles now. It's almost like my tech google with
 
 ---
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
-**Lance1997/lance1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
