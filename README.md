@@ -88,7 +88,7 @@ This profile reflects an active transition toward backend & systems engineering.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24568](https://github.com/hashicorp/terraform-provider-google/issues/24568#issuecomment-3707041652) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+1. 🗣 Commented on [#12](https://github.com/Golangcodes/golangcodes/issues/12#issuecomment-4063825355) in [Golangcodes/golangcodes](https://github.com/Golangcodes/golangcodes)
 <!--END_SECTION:activity-->
 
 ---
