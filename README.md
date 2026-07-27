@@ -88,7 +88,7 @@ This profile reflects an active transition toward backend & systems engineering.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Golangcodes/golangcodes/issues/12#issuecomment-4072630151) in [Golangcodes/golangcodes](https://github.com/Golangcodes/golangcodes)
+1. ❗ Opened issue [#66](https://github.com/better-invite/better-invite/issues/66) in [better-invite/better-invite](https://github.com/better-invite/better-invite)
 <!--END_SECTION:activity-->
 
 ---
