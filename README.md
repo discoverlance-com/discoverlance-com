@@ -88,7 +88,7 @@ This profile reflects an active transition toward backend & systems engineering.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#66](https://github.com/better-invite/better-invite/issues/66) in [better-invite/better-invite](https://github.com/better-invite/better-invite)
+1. 🗣 Commented on [#66](https://github.com/better-invite/better-invite/issues/66#issuecomment-5097048774) in [better-invite/better-invite](https://github.com/better-invite/better-invite)
 <!--END_SECTION:activity-->
 
 ---
